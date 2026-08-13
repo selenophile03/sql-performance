@@ -1,4 +1,4 @@
-# SQL Query Performance Optimization Sandbox
+# SQL Query Performance Optimization 
 
 An educational project showcasing database performance engineering on a dataset of 1 million transaction logs using PostgreSQL.
 
